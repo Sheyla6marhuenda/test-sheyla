@@ -237,10 +237,6 @@
         "950": {
           "$type": "color",
           "$value": "#0e1c58"
-        },
-        "teal": {
-          "$type": "color",
-          "$value": "#2afbfe"
         }
       }
     }
