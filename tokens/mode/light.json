@@ -17,6 +17,10 @@
         "accent": {
           "$type": "color",
           "$value": "{color.palette.accent.800}"
+        },
+        "accent2": {
+          "$type": "color",
+          "$value": "{color.palette.accent.50}"
         }
       },
       "background": {
