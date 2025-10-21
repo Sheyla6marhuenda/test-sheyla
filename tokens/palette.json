@@ -12,47 +12,43 @@
       "mono": {
         "50": {
           "$type": "color",
-          "$value": "#f7f8f8"
+          "$value": "#EEF0F0"
         },
         "100": {
           "$type": "color",
-          "$value": "#EEEEF0"
+          "$value": "#EEF0F0"
         },
         "200": {
           "$type": "color",
-          "$value": "#d8dbdf"
+          "$value": "#E1E3E4"
         },
         "300": {
           "$type": "color",
-          "$value": "#b6bac3"
+          "$value": "#D0D1D2"
         },
         "400": {
           "$type": "color",
-          "$value": "#8f96a1"
+          "$value": "#B6B9BA"
         },
         "500": {
           "$type": "color",
-          "$value": "#717886"
+          "$value": "#989A9C"
         },
         "600": {
           "$type": "color",
-          "$value": "#5b616e"
+          "$value": "#7C7F80"
         },
         "700": {
           "$type": "color",
-          "$value": "#4a4e5a"
+          "$value": "#4C4E4F"
         },
         "800": {
           "$type": "color",
-          "$value": "#40444c"
+          "$value": "#383F41"
         },
         "900": {
           "$type": "color",
-          "$value": "#383a42"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#18191C"
+          "$value": "#0B0D0E"
         }
       },
       "negative": {
@@ -95,10 +91,6 @@
         "900": {
           "$type": "color",
           "$value": "#861616"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#490606"
         }
       },
       "warning": {
@@ -141,10 +133,6 @@
         "900": {
           "$type": "color",
           "$value": "#723215"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#411807"
         }
       },
       "positive": {
@@ -187,10 +175,6 @@
         "900": {
           "$type": "color",
           "$value": "#0e591d"
-        },
-        "950": {
-          "$type": "color",
-          "$value": "#01320b"
         }
       },
       "accent": {

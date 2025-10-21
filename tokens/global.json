@@ -152,11 +152,11 @@
   "fontFamily": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Space Grotesk"
+      "$value": "Merriweather"
     },
     "secondary": {
       "$type": "fontFamilies",
-      "$value": "Outfit"
+      "$value": "inter"
     }
   },
   "lineHeight": {

@@ -8,7 +8,7 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.300}"
+          "$value": "{color.palette.mono.200}"
         },
         "inverse": {
           "$type": "color",
@@ -16,7 +16,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.200}"
+          "$value": "{color.palette.mono.100}"
         }
       },
       "background": {
@@ -26,29 +26,29 @@
         },
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.950}"
+          "$value": "{color.palette.mono.900}"
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.950}"
+          "$value": "{color.palette.mono.900}"
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.300}"
+          "$value": "{color.palette.mono.200}"
         },
         "accent-light": {
           "$type": "color",
-          "$value": "{color.palette.mono.900}"
+          "$value": "{color.palette.mono.800}"
         }
       },
       "border": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.600}"
+          "$value": "{color.palette.mono.500}"
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.500}"
+          "$value": "{color.palette.mono.400}"
         }
       }
     },
@@ -56,11 +56,11 @@
       "background": {
         "accent-hover": {
           "$type": "color",
-          "$value": "{color.palette.mono.200}"
+          "$value": "{color.palette.mono.100}"
         },
         "accent-light-hover": {
           "$type": "color",
-          "$value": "{color.palette.mono.800}"
+          "$value": "{color.palette.mono.700}"
         },
         "accent-active": {
           "$type": "color",
@@ -68,7 +68,7 @@
         },
         "accent-light-active": {
           "$type": "color",
-          "$value": "{color.palette.mono.600}"
+          "$value": "{color.palette.mono.500}"
         }
       }
     },
