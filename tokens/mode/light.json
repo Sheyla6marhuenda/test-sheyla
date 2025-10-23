@@ -38,13 +38,13 @@
         },
         "accent-light": {
           "$type": "color",
-          "$value": "{color.palette.mono.100}"
+          "$value": "{color.palette.accent.50}"
         }
       },
       "border": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.300}"
+          "$value": "{color.palette.mono.200}"
         },
         "accent": {
           "$type": "color",
@@ -81,11 +81,11 @@
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.states.background.accent-hover}"
+            "$value": "{color.palette.accent.800}"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "$value": "{color.palette.accent.800}"
           }
         },
         "secondary": {
