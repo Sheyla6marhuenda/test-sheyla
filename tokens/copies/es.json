@@ -2,7 +2,7 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Bienvenido mundo!"
+      "$value": "Domina el arte de las técnicas de costura"
     },
     "subtitle": {
       "$type": "text",
