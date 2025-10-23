@@ -44,11 +44,11 @@
       "border": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.500}"
+          "$value": "{color.palette.mono.700}"
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.mono.400}"
+          "$value": "{color.palette.mono.600}"
         }
       }
     },
@@ -77,15 +77,15 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "$value": "{color.palette.accent.300}"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.states.background.accent-hover}"
+            "$value": "{color.palette.accent.400}"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "$value": "{color.palette.accent.400}"
           }
         },
         "secondary": {
@@ -103,15 +103,15 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "$value": "{color.palette.mono.900}"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "$value": "{color.palette.mono.900}"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.core.content.inverse}"
+            "$value": "{color.palette.mono.900}"
           }
         },
         "secondary": {
