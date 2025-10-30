@@ -2,53 +2,33 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Hero Title"
+      "$value": "Master the art of sewing techniques"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "Hero Subtitle"
+      "$value": "Become proficient in sewing techniques: from using a sewing machine to designing garments like dresses, trousers, peplum tops, and backpacks "
     },
     "button": {
       "$type": "text",
-      "$value": "Hero Button"
+      "$value": "Enroll now"
     }
   },
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Intro Title"
+      "$value": "Discover the art of sewing with comprehensive journey"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Intro paragraph 1"
-      },
-      "p2": {
-        "$type": "text",
-        "$value": "Intro paragraph 2"
+        "$value": "Start from the basics, mastering your sewing machine's intricacies, and progress to foundational stitches that transform fabric into unique garments. Learn to choose the perfect fabric, create custom patterns, and explore the essentials of sewing dresses, peplum tops, trousers, and even backpacks. Each step reflects the care and creativity that go into making beautiful pieces."
       }
-    },
-    "button": {
-      "primary": {
-        "$type": "text",
-        "$value": "Intro button primary"
-      },
-      "secondary": {
-        "$type": "text",
-        "$value": "Intro button secondary"
-      }
-    }
-  },
-  "logos": {
-    "title": {
-      "$type": "text",
-      "$value": "Logos Title"
     }
   },
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sessions title"
+      "$value": "What will you learn in this course?"
     },
     "tag": {
       "one": {
@@ -76,15 +56,15 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption one"
+          "$value": "Influences + Materials"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title one"
+          "$value": "2222"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description one"
+          "$value": "3333tion one"
         }
       },
       "two": {
