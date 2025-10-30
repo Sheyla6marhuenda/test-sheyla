@@ -519,7 +519,6 @@
       "teachers.one.position": "8b93ae01812d590030723e7f6ca1c2a161170fed",
       "teachers.two.name": "f0e381c9a7fc1ce01c022d70a1ad38ef85fb2415",
       "teachers.two.position": "ab7885cd20f139213817ef7eaf86a153c7c223c1",
-      "teachers.title": "d25c923ec14d28752fcd6e318593e29e7d8078a6",
       "pricing.title": "ade852145ba1d2180077c077f611f46b394c4caa",
       "pricing.card.one.caption": "1587591fb1b693e515131451da902de0aa26e163",
       "pricing.card.one.title": "860915a09ef4f621bc88cd0f51ee7285549d3285",
@@ -556,10 +555,11 @@
       "footer.link.mail": "d60528bd1a419cc25a5db8a911f698e8604f6d1e",
       "footer.link.linkedin": "d6420b9ffab82a8ed37ea3f4b1833ece61cc7728",
       "footer.link.substack": "6d9ee1be46613f241ab0b35758fbc819645b6345",
-      "intro.subtitle.p2": "aa2607aadf6ff5ddc38f5e6a8b30e13f3f0d8ef4",
-      "intro.button.primary": "e249fdeddc78f12549678f3075ca640134f7f726",
-      "intro.button.secondary": "efb25396d030522d0a5e0fa3d911117e01b6a9d3",
-      "logos.title": "003b70464553a5346cb712c7fb458bf6edc23c66"
+      "intro.subtitle.p2": "6dc0c09b58bf4bd62c0aee87110e081d2bba30f8",
+      "intro.button.primary": "162bcb7186c56fab55da5b5bfc543c9aacf4f3ff",
+      "intro.button.secondary": "e596bbd4e954c88ef591e1d38a68c8b55749c586",
+      "logos.title": "f5c3bf449f0bd890f6a6d624334204bd98cbc6d3",
+      "teachers.title": "d25c923ec14d28752fcd6e318593e29e7d8078a6"
     },
     "$figmaCollectionId": "VariableCollectionId:2275:2364",
     "$figmaModeId": "2275:0"
@@ -618,7 +618,6 @@
       "teachers.one.position": "8b93ae01812d590030723e7f6ca1c2a161170fed",
       "teachers.two.name": "f0e381c9a7fc1ce01c022d70a1ad38ef85fb2415",
       "teachers.two.position": "ab7885cd20f139213817ef7eaf86a153c7c223c1",
-      "teachers.title": "d25c923ec14d28752fcd6e318593e29e7d8078a6",
       "pricing.title": "ade852145ba1d2180077c077f611f46b394c4caa",
       "pricing.card.one.caption": "1587591fb1b693e515131451da902de0aa26e163",
       "pricing.card.one.title": "860915a09ef4f621bc88cd0f51ee7285549d3285",

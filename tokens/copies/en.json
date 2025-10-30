@@ -70,21 +70,21 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption two"
+          "$value": "Card ccccccaption two"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title two"
+          "$value": "Card txxxxitle two"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description two"
+          "$value": "Cardzxcxc description two"
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption three"
+          "$value": "Carccccd caption three"
         },
         "title": {
           "$type": "text",
@@ -199,26 +199,22 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Name one"
+        "$value": "Amanda Smith"
       },
       "position": {
         "$type": "text",
-        "$value": "Position one"
+        "$value": "Embrodery Artist"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Name two"
+        "$value": "Juliet Uzor"
       },
       "position": {
         "$type": "text",
-        "$value": "Position two"
+        "$value": "Dressmaker"
       }
-    },
-    "title": {
-      "$type": "text",
-      "$value": "Title teachers"
     }
   },
   "pricing": {
